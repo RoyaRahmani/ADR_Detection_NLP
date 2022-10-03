@@ -4,5 +4,6 @@ Detection of Adverse Drug Reaction using NLP
 
 # Contibuters
 Senobar Naderian
+
 Roya Rahmani
 
